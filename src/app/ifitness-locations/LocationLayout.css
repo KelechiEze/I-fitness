@@ -1,0 +1,11 @@
+/* LocationLayout.css */
+.location-layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background: #ffffff;
+}
+
+.location-layout .main-content {
+  flex: 1;
+}
